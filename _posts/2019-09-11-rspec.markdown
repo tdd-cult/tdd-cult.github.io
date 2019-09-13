@@ -1,6 +1,6 @@
 ---
 title: RSpec
-date: 2019-09-11 05:46:00 Z
+date: 2019-09-11 05:46:57 Z
 categories:
 - rspec
 layout: post
