@@ -1,7 +1,7 @@
 ---
-layout: page
 title: О проекте
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Привет!

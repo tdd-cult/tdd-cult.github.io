@@ -1,8 +1,0 @@
----
-layout: post
-title:  "RSpec"
-date:   2019-09-11 08:46:57 +0300
-categories: rspec
----
-
-Заметки про RSpec.
